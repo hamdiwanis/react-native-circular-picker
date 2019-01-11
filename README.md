@@ -1,9 +1,9 @@
 <h1 align="center">react-native-circular-picker</h1>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/17047537/27594456-777bb7b8-5b62-11e7-8e45-2bbe695b3525.gif" width="270">  
-<img src="https://user-images.githubusercontent.com/17047537/27594534-b350add4-5b62-11e7-987e-fc558eb8ee21.gif" width="270">
-<img src="https://j.gifs.com/1jJy8m.gif" alt="Volume Picker Demo" width="269"> 
-<img src="https://j.gifs.com/58NDNK.gif" alt="Time Picker Demo" width="269">
+<img src="https://user-images.githubusercontent.com/17047537/27594456-777bb7b8-5b62-11e7-8e45-2bbe695b3525.gif" width="201">  
+<img src="https://user-images.githubusercontent.com/17047537/27594534-b350add4-5b62-11e7-987e-fc558eb8ee21.gif" width="201">
+<img src="https://j.gifs.com/1jJy8m.gif" alt="Volume Picker Demo" width="200"> 
+<img src="https://j.gifs.com/58NDNK.gif" alt="Time Picker Demo" width="200">
 </p>
 
 > Note: This project uses [CircularPicker](https://github.com/agilie/CircularPicker) and [AGCircularPicker](https://github.com/agilie/AGCircularPicker).
