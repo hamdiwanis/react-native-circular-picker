@@ -1,0 +1,16 @@
+PODS:
+  - AGCircularPicker (0.1.8)
+
+DEPENDENCIES:
+  - AGCircularPicker
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AGCircularPicker
+
+SPEC CHECKSUMS:
+  AGCircularPicker: 561707b238699a00b4e8dc1da443119c9064798d
+
+PODFILE CHECKSUM: d653eb1ea9d2f39558247ab752c973532bc7a2e1
+
+COCOAPODS: 1.5.3
